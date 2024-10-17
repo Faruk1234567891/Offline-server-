@@ -2,7 +2,3 @@ Untitled.txt
 Convo.txt
 Password.txt
 File.txt
-Token.txt
-Time.txt
-NP.txt
-Hatersname.txt
